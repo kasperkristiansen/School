@@ -69,6 +69,14 @@ elif tempwhat == "":
         elif converted == "Kelvin":
             print(temp2, "degrees Celsius is", temp2 + 273.15, "degrees Kelvin")
             print(temp2, "degrees Fahrenheit is", (temp2 + 459.67) * (5 / 9), "degrees Kelvin.")
+    elif temp1 != "":
+        print(temp1, "degrees Celsius is", 9 / 5 * float(temp1) + 32, "degrees Fahrenheit.")
+        print(temp1, "degrees Celsius is", float(temp1) + 273.15, "degrees Kelvin.")
+        print(temp1, "degrees Fahrenheit is", 5 / 9 * (float(temp1) - 32), "degrees Celsius.")
+        print(temp1, "degrees Fahrenheit is", (float(temp1) + 459.67) * (5 / 9), "degrees Kelvin.")
+        print(temp1, "degrees Kelvin is", (float(temp1) - 273.15), "degrees Celsius.")
+        print(temp1, "degrees Kelvin is", (float(temp1) - 273.15) * 1.8 + 32, "degrees Fahrenheit.")
+
 
 elif temp1 == "" and tempwhat == "" and converted == "":
     print(temp2, "degrees Celsius is", 9 / 5 * temp2 + 32, "degrees Fahrenheit")
