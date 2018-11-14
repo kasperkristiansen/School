@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae7dcea4-8270-4e96-b8f1-5044820c3fb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day5/.idea/Day5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5/day5_4_quit.png" beforeDir="false" />
-    </list>
+    <list default="true" id="ae7dcea4-8270-4e96-b8f1-5044820c3fb3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +12,7 @@
     <session id="-700335421">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
