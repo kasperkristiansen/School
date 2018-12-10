@@ -12,7 +12,7 @@ else:
 
 
 def rename_files():
-    file_path = r"/Users/kasperkristiansen/Desktop/aaa"
+    file_path = r"/Users/kasperkristiansen/Desktop/secret_message"
     file_list = os.listdir(file_path)
     print(file_list)
 
